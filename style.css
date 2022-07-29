@@ -1,0 +1,27 @@
+#nasalogo {
+    height: 100px;    
+}
+
+body {
+    background-color:black;
+    color: #b4c6d1;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 25px;
+}
+
+.headers {
+    height: 400px;
+    width: 1475px;
+}
+
+.buttons {
+    background-color: #252445;
+    color: #b4c6d1;
+    font-size: 20px;
+    border-radius: 8px;
+}
+ .buttons:hover {
+    background-color:#1b1a36;
+    cursor: pointer;
+ }
